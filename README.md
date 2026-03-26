@@ -12,7 +12,7 @@
 ## Problem Description
 
 ## Data Model
-![Date Model Screenshot](DataModel.png)
+![Date Model Screenshot](DataModel1.png)
 ## Data Dictionary
 
 ## Queries
