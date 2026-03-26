@@ -12,7 +12,7 @@
 ## Problem Description
 
 ## Data Model
-
+![alt_text](Screenshot 2026-03-25 144732.png)
 ## Data Dictionary
 
 ## Queries
