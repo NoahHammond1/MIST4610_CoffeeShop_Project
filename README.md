@@ -4,7 +4,7 @@
 ## Group Members:
 
 1. Donovan D'Silva - 	
-2. Noah Hammond	- [https://github.com/NoahHammond1/MIST4610_CoffeeShop_Project/tree/main](url)
+2. Noah Hammond	- [https://github.com/NoahHammond1/MIST4610_CoffeeShop_Project/tree/main]
 3. Chase Lin - [repo](https://github.com/cinnamotz/mist4610gp1/tree/main)
 4. Krithin Lokasani	-
 5. Jessica Ngo -
