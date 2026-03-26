@@ -7,7 +7,7 @@
 2. Noah Hammond	- [repo](https://github.com/NoahHammond1/MIST4610_CoffeeShop_Project/tree/main)
 3. Chase Lin - [repo](https://github.com/cinnamotz/mist4610gp1/tree/main)
 4. Krithin Lokasani	-
-5. Jessica Ngo -
+5. Jessica Ngo - [repo](https://github.com/jn83499/Mist4610_Group-Project/tree/main)
 
 ## Problem Description
 
