@@ -18,7 +18,14 @@ We are interested in accurately modeling these relationships, generating sample 
 ## Data Model
 ![Date Model Screenshot](ProjectDataModel.png)
 ## Data Dictionary
-
+![Employee Data Dictionary](DataDict_Employees.png)
+![Customer Data Dictionary](DataDict_Customers.png)
+![Category and Store Location Data Dictionary](DataDict_Cat_StrLoc.png)
+![Orders Data Dictionary](DataDict_Orders.png)
+![OrderItems and Dictionary](DataDict_OrderItems.png)
+![Products Data Dictionary](DataDict_Products.png)
+![Loyalty Account and Payment Data Dictionary](DataDict_Loy_Pmt.png)
+![Supplier and Product Supplier Data Dictionary](DataDict_Sup_ProdSup.png)
 ## Queries
 
 ## Database information
