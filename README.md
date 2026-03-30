@@ -18,7 +18,7 @@ We are interested in accurately modeling these relationships, generating sample 
 ## Data Model
 ![Date Model Screenshot](ProjectDataModel.png)
 ## Data Dictionary
-![Employee Data Dictionary](DataDict_Employees.png)
+![Employee Data Dictionary](DataDict_Employees.htm)
 ![Customer Data Dictionary](DataDict_Customers.png)
 ![Category and Store Location Data Dictionary](DataDict_Cat_StrLoc.png)
 ![Orders Data Dictionary](DataDict_Orders.png)
