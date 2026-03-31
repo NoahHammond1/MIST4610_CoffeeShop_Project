@@ -35,8 +35,8 @@ We are interested in accurately modeling these relationships, generating sample 
 | GROUP BY with HAVING       | X  |    |    |    |    |    |    |    |    |     |
 | Multi-condition WHERE      |    |    |    |  X |    |    |    |    |    |     |
 | Built-in Functions         | X  | X  | X  |    |    | X  |    |    |    |     |
-| REGEXP                     |    |    | X  |    |    |    |    |    |    |     |
-| NOT EXISTS                 |    |    |    |    |    |    |    |    |    |     |
+| REGEXP                     |    |    | X  |    |    |    |    | X  |    |     |
+| NOT EXISTS                 |    |    |    |    |    |    |    |    |  X |     |
 1. Query 1 finds customers who spend more than average by comparing each customer’s total spending to the overall average payment.
    
 ![Query1](Query1.png)
@@ -73,6 +73,20 @@ Query 6 allows for managers to see what type of payment method is the most popul
 
 ![Query7](Query7.png)
 Query 7 allows for customers to see the total amount of loyalty points they have. This is useful for when they need to redeem for different rewards. It would also be useful for employees and managers to see them when during or after a purchase to help loyalty point redemption.
+
+
+8. Query 8 shows all orders placed after March 1, 2026 with order numbers that start with 3.
+
+![Query8](https://github.com/user-attachments/assets/a96df327-3304-4316-a245-0d4a53d4609a)
+Query 8 allows businesses to see recent transactions and analyze them while focusing on specific categories of orders identified the starting number of their order number. For instance, the number 3 could only relate to in-store transactions so businesses would look at these orders if they want to inquire about them in any way. This is useful for managers and employees when evaluating short-term performance and understanding consumer behavior. 
+
+
+9. Query 9 shows customers that have not yet been served by specific employees at a given store location.
+
+(![Query9](https://github.com/user-attachments/assets/27b963e1-c1c9-43f6-9e12-bc93587f2c2a))
+
+
+Query 9 allows managers to understand business distribution among employees, identify oppurtunities for employees to engage with new customers, and improve overall customer experience by ensuring a more balanced interaction with customers and employees. 
 
 
 
